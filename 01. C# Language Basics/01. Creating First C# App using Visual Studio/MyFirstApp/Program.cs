@@ -1,8 +1,10 @@
-﻿class Sample
+﻿using System;
+
+class Sample
 {
     static void Main()
     {
-        System.Console.WriteLine("Hello");
-        System.Console.ReadKey();
+        Console.WriteLine("Hello");
+        Console.ReadKey();
     }
 }
